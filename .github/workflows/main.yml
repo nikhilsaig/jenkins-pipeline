@@ -1,3 +1,4 @@
+name: Deploy with Ngrok
 on:
   workflow_dispatch:  # Manual trigger
 
